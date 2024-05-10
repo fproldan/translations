@@ -63,7 +63,10 @@ The action will make a Pull Request with the translated files for every language
 
 
 
+### TODO
 
+- Re-do the translations PR when the original PR is updated with new commits.
+- Don't translate code blocks.
 
 #### License
 
