@@ -5,6 +5,8 @@ app_description = "Example app to illustrate the usage of the docs translation a
 app_email = "contacto@diamo.com.ar"
 app_license = "MIT"
 
+docs_languages = ['es', 'fr']
+
 # Includes in <head>
 # ------------------
 
