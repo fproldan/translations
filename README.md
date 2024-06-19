@@ -9,7 +9,7 @@ To obtain the credentials JSON file for using the Google Cloud Translation API, 
 
 **1. Go to the Google Cloud Console:**
 
-Visit the [Google Cloud Console](https://chatgpt.com/c/768c08ec-9330-4b0a-9c55-5e0119f695af#:~:text=Console%3A%0AVisit%20the-,Google%20Cloud%20Console,-.).
+Visit the [Google Cloud Console](https://console.cloud.google.com/).
 
 **2. Create a new project (if you haven't already):**
 
